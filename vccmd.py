@@ -138,5 +138,5 @@ else:
         message()
         hostsFile = sys.argv[1]
         cmdFile = sys.argv[2]
-        passwd = "7412"
+        passwd = "****"
         main(hostsFile,cmdFile,passwd)
